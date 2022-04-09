@@ -1,0 +1,1 @@
+print(str.join("", ("9" if c == "6" else "6" if c == "9" else c for c in reversed(input()))))
