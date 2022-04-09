@@ -1,0 +1,1 @@
+print((lambda a, b: a * b / 100)(*map(int, input().split())))
