@@ -1,2 +1,5 @@
 # atcoder-answers
-AtCoderの解答プログラム集
+
+Program list of my answers in [AtCoder](https://atcoder.jp).
+
+- [My account in AtCoder](https://atcoder.jp/users/H1rono)
