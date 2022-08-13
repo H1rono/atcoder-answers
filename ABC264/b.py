@@ -1,0 +1,1 @@
+print((lambda r, c: ["white", "black"][r & 1 if r > c else c & 1])(*map(lambda a: abs(a - 8), map(int, input().split()))))

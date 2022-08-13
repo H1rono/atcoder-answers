@@ -1,0 +1,1 @@
+(lambda l, r: print("atcoder"[l - 1:r]))(*map(int, input().split()))
