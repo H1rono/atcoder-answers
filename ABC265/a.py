@@ -1,0 +1,1 @@
+print((lambda x, y, n: x * n if x * 3 < y else (lambda d, m: x * m + y * d)(*divmod(n, 3)))(*map(int, input().split())))
