@@ -1,0 +1,24 @@
+[package]
+name = "ABC269"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "a"
+path = "a.rs"
+
+[[bin]]
+name = "b"
+path = "b.rs"
+
+[[bin]]
+name = "c"
+path = "c-review.rs"
+
+[[bin]]
+name = "d"
+path = "d-review.rs"
+
+[dependencies]
