@@ -10,3 +10,5 @@ name = "a"
 path = "a.rs"
 
 [dependencies]
+proconio = "0.4.3"
+
