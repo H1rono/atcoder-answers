@@ -1,0 +1,23 @@
+[package]
+name = "ABC289"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.56"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "a"
+path = "a.rs"
+
+[[bin]]
+name = "b"
+path = "b-review.rs"
+
+[[bin]]
+name = "c"
+path = "c-review.rs"
+
+[dependencies]
+proconio = "0.4.3"
+
